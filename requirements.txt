@@ -6,3 +6,4 @@ google-auth
 jmespath
 netaddr
 requests
+ansible-core>=2.18.0 # not directly required, pinned by Snyk to avoid a vulnerability
